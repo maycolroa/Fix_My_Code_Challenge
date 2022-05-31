@@ -38,4 +38,3 @@ This proyect have diferents exercises with binay trees. binary tree is a tree da
 ## Authors
 
 * Maycol David Roa [GitHub](https://github.com/maycolroa)
-* Diana Ayala [GitHub](https://github.com/dmac24)
